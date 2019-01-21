@@ -1,0 +1,9 @@
+{
+  "name": "politibot",
+  "description": "This bot puts out some good content",
+  "version": "1.0.0",
+  "license": "GPL v3",
+  "dependencies": {
+    "twitter": "1.7.1"
+  }
+}
