@@ -22,7 +22,6 @@
       "HERE"
     ],
     "phrases": [
-      // Create Phrases here with above word. I am sure there is a better way to do this. 
         "Lorem *ADJECTIVE* Ipsum *NOUN* *ADVERB* *VERB* "
       ]
   }
