@@ -6,10 +6,10 @@ var Twitter = require('twitter');
 var tweet_one_words = require('./content.json');
 
 var client = new Twitter({
-  consumer_key: '',
-  consumer_secret: '',
-  access_token_key: '',
-  access_token_secret: ''
+  consumer_key: 'YOUR_CONSUMER_KEY_GOES_HERE',
+  consumer_secret: 'YOUR_CONSUMER_SECRET_GOES_HERE',
+  access_token_key: 'YOUR_ACCESS_TOKEN_HERE',
+  access_token_secret: 'YOUR_ACCESS_TOKEN_SECRET_HERE'
 });
 
 class GenerateTweet {
