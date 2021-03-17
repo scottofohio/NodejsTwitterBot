@@ -1,0 +1,27 @@
+
+  {
+    "nouns": [
+      "ADD",
+      "WORDS",
+      "HERE"
+    ],
+    "verbs": [
+     "ADD",
+      "WORDS",
+      "HERE"
+    ],
+    "adjectives":[
+      "ADD",
+      "WORDS",
+      "HERE"
+     
+    ],
+    "adverbs": [
+     "ADD",
+      "WORDS",
+      "HERE"
+    ],
+    "phrases": [
+        "Lorem *ADJECTIVE* Ipsum *NOUN* *ADVERB* *VERB* "
+      ]
+  }
