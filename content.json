@@ -1,40 +1,28 @@
 
   {
     "nouns": [
-      "Imigration",
-      "Security",
-      "Health Care",
-      "The Economy",
-      "The Tax Rate",
-      "Climate Change"
+      "ADD",
+      "WORDS",
+      "HERE"
     ],
     "verbs": [
-      "run",
-      "vote",
-      "play",
-      "teach",
-      "work"
+     "ADD",
+      "WORDS",
+      "HERE"
     ],
     "adjectives":[
-      "great",
-      "huge",
-      "amazing",
-      "big",
-      "bad",
-      "good"
+      "ADD",
+      "WORDS",
+      "HERE"
      
     ],
     "adverbs": [
-      "extremely dangerous",
-      "quietly",
-      "badly",
-      "always",
-      "very slightly",
-      "very much so"
+     "ADD",
+      "WORDS",
+      "HERE"
     ],
     "phrases": [
-        "@ We need to be *ADJECTIVE* at *NOUN* in this country or we will  *ADVERB* *VERB* out of options",
-        "America need to *VERB* for *NOUN* because we are *ADVERB* going to be *ADJECTIVE*",
-        "*NOUN* is the biggest issue facing *ADJECTIVE* Americans and it is going to *VERB* us out of retirement"
+      // Create Phrases here with above word. I am sure there is a better way to do this. 
+        "Lorem *ADJECTIVE* Ipsum *NOUN* *ADVERB* *VERB* "
       ]
   }
