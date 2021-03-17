@@ -68,6 +68,6 @@ function tweetTime(frequency, classObj) {
   }, the_interval);
 }
 
-// post Tweet every 15 minutes with random word 
-let nounObj = new nounGenerator(nouns);
-tweetTime(15, nounObj);
+// // post Tweet every 15 minutes with random word 
+// let nounObj = new nounGenerator(nouns);
+// tweetTime(15, nounObj);
